@@ -2,4 +2,4 @@ HyperSed
 ========
 
 
-Expermintal Website for Geology & Sedimentology Research ..
+Expermintal Package for Geology & Sedimentology Research ..
